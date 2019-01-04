@@ -691,9 +691,12 @@ a{
     .entretient_img{
         position: relative;
         top:  -40px;
-        
-    }
-       
+        .responsive {
+            max-width: 100%;
+            height: auto;
+            display: block;
+          }   
+    }      
 }
 .fleche_tarif3{
     position: relative;
@@ -1063,7 +1066,15 @@ a{
 .fleche{
     display: none;
 }
-
+.responsive {
+    max-width: 250px;
+    height: auto;
+}  
+.entretient_img{
+    position: relative;
+    bottom: 150px;
+    padding-bottom: 20px;
+}
 //Footer
     .footerauto{
         display: flex;

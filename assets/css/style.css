@@ -1049,6 +1049,12 @@ a {
   top: -40px;
 }
 
+.section_tarif3 .entretient_img .responsive {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
 .fleche_tarif3 {
   position: relative;
   z-index: 9;
@@ -1553,6 +1559,15 @@ footer p {
   }
   .fleche {
     display: none;
+  }
+  .responsive {
+    max-width: 250px;
+    height: auto;
+  }
+  .entretient_img {
+    position: relative;
+    bottom: 150px;
+    padding-bottom: 20px;
   }
   .footerauto {
     display: -webkit-box;
