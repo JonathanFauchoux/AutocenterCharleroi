@@ -3,12 +3,12 @@
     "name": "Autocenter Charleroi",
     "icons": [
       {
-        "src": "assets/img/icon_autocenter2.png",
+        "src": "assets/img/icon_autocenter2.PNG",
         "sizes": "192x192",
         "type": "image/png"
       },
       {
-        "src": "assets/img/icon_autocenter1.png",
+        "src": "assets/img/icon_autocenter1.PNG",
         "sizes": "512x512",
         "type": "image/png"
       }
