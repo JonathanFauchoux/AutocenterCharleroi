@@ -1491,7 +1491,7 @@ footer p {
   }
   .tarif_bloc_titre .garage_titre {
     position: relative;
-    top: -45px;
+    top: -15px;
   }
   .tarif_bloc_titre .garage_text {
     display: none;
@@ -1568,6 +1568,11 @@ footer p {
     position: relative;
     bottom: 150px;
     padding-bottom: 20px;
+  }
+  .fiat {
+    height: 250px;
+    position: relative;
+    top: 25px;
   }
   .footerauto {
     display: -webkit-box;
