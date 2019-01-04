@@ -1,0 +1,144 @@
+[{
+    "titre": "Audi a5",
+    "carburant": "diesel",
+    "prix" : 8500,
+    "texte": "Ce véhicule dispose des options suivantes : Phares au xénon, Toit panoramique, Toit ouvrant, , Système de navigation (GPS), Senseurs pluie, Senseurs lumière, Régulateur de vitesse, Lève-vitres avant électrique, Climatisation automatique, Aide au stationnement arrière, Alarme",
+    "photo": "assets/img/audi1.jpg",
+    "photo2": "assets/img/audi2.jpg",
+    "photo3": "assets/img/audi3.jpg"
+},
+{
+    "titre": " Partner 2",
+    "carburant": "essence",
+    "prix" : 2500,
+    "texte": "Ce véhicule dispose des options suivantes : Phares au xénon, Toit panoramique, Toit ouvrant, , Système de navigation (GPS), Senseurs pluie, Senseurs lumière, Régulateur de vitesse, Lève-vitres avant électrique, Climatisation automatique, Aide au stationnement arrière, Alarme",
+    "photo": "assets/img/partner1.jpg",
+    "photo2": "assets/img/partner2.jpg",
+    "photo3": "assets/img/partner3.jpg"
+},
+{
+    "titre": "Toyota corola",
+    "carburant": "diesel",
+    "prix" : 2990,
+    "texte": "Ce véhicule dispose des options suivantes : Phares au xénon, Toit panoramique, Toit ouvrant, , Système de navigation (GPS), Senseurs pluie, Senseurs lumière, Régulateur de vitesse, Lève-vitres avant électrique, Climatisation automatique, Aide au stationnement arrière, Alarme",
+    "photo": "assets/img/honda1.jpg",
+    "photo2": "assets/img/honda2.jpg",
+    "photo3": "assets/img/honda3.jpg"
+},
+{
+    "titre": "Bmw break",
+    "carburant": "diesel",
+    "prix" : 6200,
+    "texte": "Ce véhicule dispose des options suivantes : Phares au xénon, Toit panoramique, Toit ouvrant, , Système de navigation (GPS), Senseurs pluie, Senseurs lumière, Régulateur de vitesse, Lève-vitres avant électrique, Climatisation automatique, Aide au stationnement arrière, Alarme",
+    "photo": "assets/img/bmwbreak1.jpg",
+    "photo2": "assets/img/bmwbreak2.jpg",
+    "photo3": "assets/img/bmwbreak3.jpg"
+},
+{
+    "titre": "Mini cooper",
+    "carburant": "diesel",
+    "prix" : 5200,
+    "texte": "Ce véhicule dispose des options suivantes : Phares au xénon, Toit panoramique, Toit ouvrant, , Système de navigation (GPS), Senseurs pluie, Senseurs lumière, Régulateur de vitesse, Lève-vitres avant électrique, Climatisation automatique, Aide au stationnement arrière, Alarme",
+    "photo": "assets/img/mini1.jpg",
+    "photo2": "assets/img/mini2.jpg",
+    "photo3": "assets/img/mini3.jpg"
+},
+{
+    "titre": "BMW serie1",
+    "carburant": "diesel",
+    "prix" : 8200,
+    "texte": "Ce véhicule dispose des options suivantes : Phares au xénon, Toit panoramique, Toit ouvrant, , Système de navigation (GPS), Senseurs pluie, Senseurs lumière, Régulateur de vitesse, Lève-vitres avant électrique, Climatisation automatique, Aide au stationnement arrière, Alarme",
+    "photo": "assets/img/bmw1.jpg",
+    "photo2": "assets/img/bmw2.jpg",
+    "photo3": "assets/img/bmw3.jpg"
+},
+{
+    "titre": "Suzuki Swift",
+    "carburant": "essence",
+    "prix" : 4200,
+    "texte": "Ce véhicule dispose des options suivantes : Phares au xénon, Toit panoramique, Toit ouvrant, , Système de navigation (GPS), Senseurs pluie, Senseurs lumière, Régulateur de vitesse, Lève-vitres avant électrique, Climatisation automatique, Aide au stationnement arrière, Alarme",
+    "photo": "assets/img/swift1.jpg",
+    "photo2": "assets/img/swift2.jpg",
+    "photo3": "assets/img/swift3.jpg"
+},
+{
+    "titre": "Renault scenic",
+    "carburant": "diesel",
+    "prix" : 2990,
+    "texte": "Ce véhicule dispose des options suivantes : Phares au xénon, Toit panoramique, Toit ouvrant, , Système de navigation (GPS), Senseurs pluie, Senseurs lumière, Régulateur de vitesse, Lève-vitres avant électrique, Climatisation automatique, Aide au stationnement arrière, Alarme",
+    "photo": "assets/img/scenic1.jpg",
+    "photo2": "assets/img/scenic2.jpg",
+    "photo3": "assets/img/scenic3.jpg"
+},
+{
+    "titre": "Citroen jumper",
+    "carburant": "diesel",
+    "prix" : 2900,
+    "texte": "Ce véhicule dispose des options suivantes : Phares au xénon, Toit panoramique, Toit ouvrant, , Système de navigation (GPS), Senseurs pluie, Senseurs lumière, Régulateur de vitesse, Lève-vitres avant électrique, Climatisation automatique, Aide au stationnement arrière, Alarme",
+    "photo": "assets/img/jumper1.jpg",
+    "photo2": "assets/img/jumper2.jpg",
+    "photo3": "assets/img/jumper3.jpg"
+},
+{
+    "titre": "Wv golf",
+    "carburant": "diesel",
+    "prix" : 6900,
+    "texte": "Ce véhicule dispose des options suivantes : Phares au xénon, Toit panoramique, Toit ouvrant, , Système de navigation (GPS), Senseurs pluie, Senseurs lumière, Régulateur de vitesse, Lève-vitres avant électrique, Climatisation automatique, Aide au stationnement arrière, Alarme",
+    "photo": "assets/img/golf1.jpg",
+    "photo2": "assets/img/golf2.jpg",
+    "photo3": "assets/img/golf3.jpg"
+},
+{
+    "titre": "Ford focus",
+    "carburant": "essence",
+    "prix" : 6900,
+    "texte": "Ce véhicule dispose des options suivantes : Phares au xénon, Toit panoramique, Toit ouvrant, , Système de navigation (GPS), Senseurs pluie, Senseurs lumière, Régulateur de vitesse, Lève-vitres avant électrique, Climatisation automatique, Aide au stationnement arrière, Alarme",
+    "photo": "assets/img/focus1.jpg",
+    "photo2": "assets/img/focus2.jpg",
+    "photo3": "assets/img/focus3.jpg"
+},
+{
+    "titre": "Mercedes class A",
+    "carburant": "essence",
+    "prix" : 1900,
+    "texte": "Ce véhicule dispose des options suivantes : Phares au xénon, Toit panoramique, Toit ouvrant, , Système de navigation (GPS), Senseurs pluie, Senseurs lumière, Régulateur de vitesse, Lève-vitres avant électrique, Climatisation automatique, Aide au stationnement arrière, Alarme",
+    "photo": "assets/img/classa1.jpg",
+    "photo2": "assets/img/classa2.jpg",
+    "photo3": "assets/img/classa3.jpg"
+},
+{
+    "titre": "Renault clio 2",
+    "carburant": "essence",
+    "prix" : 2900,
+    "texte": "Ce véhicule dispose des options suivantes : Phares au xénon, Toit panoramique, Toit ouvrant, , Système de navigation (GPS), Senseurs pluie, Senseurs lumière, Régulateur de vitesse, Lève-vitres avant électrique, Climatisation automatique, Aide au stationnement arrière, Alarme",
+    "photo": "assets/img/clio1.jpg",
+    "photo2": "assets/img/clio2.jpg",
+    "photo3": "assets/img/clio3.jpg"
+},
+{
+    "titre": "Citroen C4",
+    "carburant": "diesel",
+    "prix" : 4900,
+    "texte": "Ce véhicule dispose des options suivantes : Phares au xénon, Toit panoramique, Toit ouvrant, , Système de navigation (GPS), Senseurs pluie, Senseurs lumière, Régulateur de vitesse, Lève-vitres avant électrique, Climatisation automatique, Aide au stationnement arrière, Alarme",
+    "photo": "assets/img/c41.jpg",
+    "photo2": "assets/img/c42.jpg",
+    "photo3": "assets/img/c43.jpg"
+},
+{
+    "titre": "Citroen C3",
+    "carburant": "essence",
+    "prix" : 7500,
+    "texte": "Ce véhicule dispose des options suivantes : Phares au xénon, Toit panoramique, Toit ouvrant, , Système de navigation (GPS), Senseurs pluie, Senseurs lumière, Régulateur de vitesse, Lève-vitres avant électrique, Climatisation automatique, Aide au stationnement arrière, Alarme",
+    "photo": "assets/img/c31.jpg",
+    "photo2": "assets/img/c32.jpg",
+    "photo3": "assets/img/c33.jpg"
+},
+{
+    "titre": "Opel astra",
+    "carburant": "diesel",
+    "prix" : 4500,
+    "texte": "Ce véhicule dispose des options suivantes : Phares au xénon, Toit panoramique, Toit ouvrant, , Système de navigation (GPS), Senseurs pluie, Senseurs lumière, Régulateur de vitesse, Lève-vitres avant électrique, Climatisation automatique, Aide au stationnement arrière, Alarme",
+    "photo": "assets/img/astra1.jpg",
+    "photo2": "assets/img/astra2.jpg",
+    "photo3": "assets/img/astra3.jpg"
+}]
