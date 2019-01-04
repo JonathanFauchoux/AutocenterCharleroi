@@ -1,0 +1,16 @@
+{
+    "short_name": "ACC",
+    "name": "Autocenter Charleroi",
+    "icons": [
+      {
+        "src": "assets/img/favicon.png",
+        "type": "image/png",
+        "sizes": "50x50"
+      }
+    ],
+    "start_url": "https://jonathanfauchoux.github.io/AutocenterCharleroi/index.html",
+    "background_color": "#fff",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#3367D6"
+  }
