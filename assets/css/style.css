@@ -143,7 +143,6 @@ a {
   font-weight: bold;
   position: relative;
   top: 8px;
-  color: #fff;
 }
 
 .home_titre {
@@ -361,7 +360,6 @@ a {
   font-weight: bold;
   position: relative;
   top: 8px;
-  color: #fff;
 }
 
 .garage_bloc_titre {
@@ -613,7 +611,6 @@ a {
   font-weight: bold;
   position: relative;
   top: 8px;
-  color: #fff;
 }
 
 .mainOccasion {
@@ -1277,7 +1274,7 @@ footer p {
   top: -12px;
 }
 
-@media only screen and (max-width: 650px) {
+@media only screen and (max-width: 769px) {
   .logonav {
     width: 230px;
   }
