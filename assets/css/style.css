@@ -15,20 +15,6 @@ a {
   padding: 0;
 }
 
-.box_shadow {
-  padding: 0;
-  margin: 0px;
-  -webkit-box-shadow: 3px 4px 5px 0px grey;
-          box-shadow: 3px 4px 5px 0px grey;
-}
-
-.box_shadow2 {
-  padding: 0;
-  margin: 0px;
-  -webkit-box-shadow: 3px 4px 5px 0px grey;
-          box-shadow: 3px 4px 5px 0px grey;
-}
-
 .navglobal {
   width: 100%;
   position: fixed;
@@ -178,6 +164,18 @@ a {
   padding: 0;
 }
 
+.presentation .meca1 {
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+.presentation .meca2 {
+  width: 100%;
+  height: auto;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
 .presentation .banner {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -215,6 +213,23 @@ a {
   font-size: 1.1rem;
 }
 
+.text-test {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+}
+
+.text-test .text2 {
+  text-align: right;
+}
+
 .titre {
   font-size: 2.2rem;
   padding-bottom: 15px;
@@ -233,6 +248,7 @@ a {
 
 .card-global .card {
   width: 20em;
+  overflow: hidden;
 }
 
 .card-global .card .card-body {
@@ -308,6 +324,11 @@ a {
   margin-bottom: -10px;
   padding: 0;
   background-color: #000;
+}
+
+.poingnee {
+  -o-object-fit: contain;
+     object-fit: contain;
 }
 
 .down {
@@ -423,10 +444,11 @@ a {
 }
 
 .photo_garage {
-  padding: 0 !important;
+  padding: 0;
   margin: 0;
   border-radius: 15px;
-  width: auto;
+  -o-object-fit: contain;
+     object-fit: contain;
 }
 
 .garage2 {
@@ -461,11 +483,6 @@ a {
 
 .garage2 .garage_left .text-garage p {
   font-size: 0.8rem;
-}
-
-.garage2 .img-fluid {
-  width: auto;
-  height: auto;
 }
 
 .less, .less2, .less3 {
@@ -508,6 +525,13 @@ a {
 
 .red {
   background-color: #ff1511 !important;
+}
+
+.header_occasion {
+  width: 660px;
+  height: 490px;
+  -o-object-fit: contain;
+     object-fit: contain;
 }
 
 .occasion_content {
@@ -744,7 +768,7 @@ a {
       -ms-flex-pack: center;
           justify-content: center;
   border-right: 2px solid #ff1511;
-  margin-top: 150px;
+  margin-top: 100px;
 }
 
 .section_tarif1 .section_text .titre-section {
@@ -786,6 +810,11 @@ a {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+}
+
+.section_tarif1 .traif_right .img_vidange {
+  -o-object-fit: contain;
+     object-fit: contain;
 }
 
 .section_tarif1 .tarif_photo1 {
@@ -917,6 +946,11 @@ a {
           align-items: center;
 }
 
+.section_tarif2 .traif_right .pneu-img {
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
 .section_tarif2 .tarif_photo1 {
   height: 350px;
   width: 250px;
@@ -1001,7 +1035,7 @@ a {
 }
 
 .section_tarif3 .section_text .bloc-text {
-  padding-bottom: 200px;
+  padding-bottom: 90px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1047,6 +1081,8 @@ a {
 .section_tarif3 .entretient_img {
   position: relative;
   top: -40px;
+  -o-object-fit: contain;
+     object-fit: contain;
 }
 
 .section_tarif3 .entretient_img .responsive {
@@ -1124,7 +1160,7 @@ a {
 }
 
 .section_tarif4 .section_text .bloc-text {
-  padding-bottom: 200px;
+  padding-bottom: 150px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1156,6 +1192,11 @@ a {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+}
+
+.section_tarif4 .traif_right .fiat {
+  -o-object-fit: contain;
+     object-fit: contain;
 }
 
 .fullForm {
@@ -1280,7 +1321,23 @@ footer p {
   top: -12px;
 }
 
-@media only screen and (max-width: 769px) {
+@media screen and (min-width: 770px) and (max-width: 1000px) {
+  .presentation {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  .presentation .meca2 {
+    width: 650px;
+    height: auto;
+  }
+}
+
+@media only screen and (max-width: 779px) {
   .logonav {
     width: 230px;
   }
@@ -1350,18 +1407,36 @@ footer p {
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
   }
   .presentation h2 {
     text-align: center;
   }
+  .presentation .meca1 {
+    width: 350px;
+    height: 250px;
+  }
   .presentation .text {
-    padding: 10px 0;
+    padding: 20px 0;
+  }
+  .presentation .text-test {
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  .presentation .text2 {
+    text-align: center;
   }
   .modal-content .carousel-photo {
     padding-left: 10%;
   }
   .header_garage {
     margin-top: 80px;
+  }
+  .title {
+    padding: 15px 0;
   }
   .under-video {
     display: -webkit-box;
@@ -1410,6 +1485,9 @@ footer p {
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
             flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
   }
   .test img {
     padding-top: 10px;
@@ -1549,10 +1627,16 @@ footer p {
   .pneu {
     position: relative;
     top: 100px;
+    -o-object-fit: contain;
+       object-fit: contain;
   }
   .traif_right {
     position: relative;
     top: -50px;
+  }
+  .traif_right .img_vidange {
+    -o-object-fit: contain;
+       object-fit: contain;
   }
   .smHide {
     display: none;
@@ -1573,6 +1657,8 @@ footer p {
     height: 250px;
     position: relative;
     top: 25px;
+    -o-object-fit: contain;
+       object-fit: contain;
   }
   .footerauto {
     display: -webkit-box;
