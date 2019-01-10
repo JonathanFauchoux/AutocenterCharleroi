@@ -1624,9 +1624,9 @@ footer p {
   .section_tarif3 .section_text .bloc-text .text-section {
     text-align: center;
   }
-  .pneu {
+  .pneu-img {
     position: relative;
-    top: 100px;
+    top: 110px;
     -o-object-fit: contain;
        object-fit: contain;
   }
